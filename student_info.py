@@ -1,18 +1,17 @@
-# Student Information Program
 
-student_name = "Harshit"
-age = 17
-percentage = 85.5
-is_student = True
+student_name = "Alex" #Str
+age = 18  #Int
+percentage = 85.5   #float
+is_student = True  #bool
 
-print("===== STUDENT INFORMATION =====")
+print("===== STUDENT INFORMATION =====") #printing the student information 
 
-print("Name:", student_name)
+print("Name:", student_name) 
 print("Age:", age)
 print("Percentage:", percentage)
 print("Is Student:", is_student)
 
-print("===== DATA TYPES =====")
+print("===== DATA TYPES =====") #printing the data types of the variables
 
 print(type(student_name))
 print(type(age))
